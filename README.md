@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header" alt="Banner Animado" width="100%" heigth="50%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=BEACD8" alt="Banner Animado" width="100%" heigth="50%">
 
 <h1 align="center">Emyle Ribeiro 👩🏻‍💻</h1>
 
