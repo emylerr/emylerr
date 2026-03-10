@@ -3,7 +3,7 @@
 <h1 align="center">Emyle Ribeiro 👩🏻‍💻</h1>
 
 ###
-<p align="center">Full Stack Developer | Software Engineering</p>
+<p align="center">Full Stack Developer | Computer Science</p>
 
 ###
 
