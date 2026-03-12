@@ -9,7 +9,7 @@
 
 <h2 align="left">Sobre mim</h2>
 
-<p align="left">🙋🏻‍♀️ Oi, meu nome é Emyle Ribeiro.</br>Sou estudante de Ciências da Computação no Centro Universitário ENIAC, com foco na criação de interfaces modernas, responsivas, funcionais e Banco de Dados.<br>Tenho experiência técnica em Análise e Desenvolvimento de Sistemas e atendimento ao cliente, o que desenvolveu minha comunicação, empatia e organização ── habilidades que utilizo para criar soluções colaborativas e centradas no usuário.</p>
+<p align="left">🙋🏻‍♀️ Olá, meu nome é Emyle Ribeiro.</br>Sou estudante de Ciências da Computação no Centro Universitário ENIAC, com foco na criação de interfaces modernas, responsivas, funcionais e Banco de Dados.<br>Tenho experiência técnica em Análise e Desenvolvimento de Sistemas e atendimento ao cliente, o que desenvolveu minha comunicação, empatia e organização ── habilidades que utilizo para criar soluções colaborativas e centradas no usuário.</p>
 
 ###
 
